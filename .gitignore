@@ -1,0 +1,17 @@
+# Build directories
+Debug/
+Release/
+build/
+
+# IDE files
+.metadata/
+*.launch
+.mxproject
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp
